@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#024265</color>
+    <color name="colorPrimaryDark">#024265</color>
+    <color name="colorAccent">#0274B2</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="middlegrey">#A8A8A8</color>
+    <color name="yellow">#f6d126</color>
+
+    <!-- own definded colors -->
+    <color name="button_empty">#E6E6E6</color>
+    <color name="button2">#B7C6F1</color>
+    <color name="button4">#8aa5ce</color>
+    <color name="button8">#5D84AB</color>
+    <color name="button16">#0274B2</color>
+    <color name="button32">#2F6388</color>
+    <color name="button64">#024265</color>
+    <color name="button128">#020232</color>
+    <color name="button256">#3C3C3C</color>
+    <color name="button512">#646464</color>
+    <color name="button1024">#A8A8A8</color>
+    <color name="button2048">#C8C8C8</color>
+    <color name="button4096">#FFFFFF</color>
+    <color name="button8192">#C8E6FF</color>
+    <color name="button16384">#96B4FF</color>
+    <color name="button32768">#6482FF</color>
+
+    <!-- own definded colors 2 -->
+    <color name="button_empty_2">#A8A8A8</color>
+    <color name="button2_2">#EEE4DA</color>
+    <color name="button4_2">#ECE0C3</color>
+    <color name="button8_2">#FEB588</color>
+    <color name="button16_2">#F79663</color>
+    <color name="button32_2">#F77D63</color>
+    <color name="button64_2">#F76142</color>
+    <color name="button128_2">#EFCE73</color>
+    <color name="button256_2">#E6CA5B</color>
+    <color name="button512_2">#EECA52</color>
+    <color name="button1024_2">#EEC642</color>
+    <color name="button2048_2">#E6BE29</color>
+    <color name="button4096_2">#EF696B</color>
+    <color name="button8192_2">#E74D52</color>
+    <color name="button16384_2">#DE413A</color>
+    <color name="button32768_2">#73B2D6</color>
+
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen">#026499</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen">#79bfe6</color>
+
+</resources>
